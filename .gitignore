@@ -1,0 +1,19 @@
+# ===== OS / Editor noise =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# ===== Packet Tracer transient locks =====
+*.pkt.lock
+*.tmp
+
+# ===== Build artifacts (none expected in this repo) =====
+*.log
+*.bak
+
+# ===== Anything generated locally =====
+/local/
+/scratch/
