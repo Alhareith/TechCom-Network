@@ -1,19 +1,20 @@
-# ===== OS / Editor noise =====
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-*.swp
-*~
+# === Force Cisco as the language for all network configs ===
+*.conf linguist-language=Cisco
 
-# ===== Packet Tracer transient locks =====
-*.pkt.lock
-*.tmp
+# === Packet Tracer files count as their own language ===
+*.pkt linguist-language=Packet Tracer
 
-# ===== Build artifacts (none expected in this repo) =====
-*.log
-*.bak
+# === Treat the .pkt as vendored (not user code) ===
+# We don't want it polluting the stats
+*.pkt linguist-vendored=false
+*.pkt linguist-generated=false
 
-# ===== Anything generated locally =====
-/local/
-/scratch/
+# === Docs, diagrams, READMEs — they're docs, not code ===
+*.md linguist-documentation
+docs/* linguist-documentation
+diagrams/* linguist-documentation
+LICENSE linguist-documentation
+
+# === Binary assets — exclude from language stats ===
+*.pptx linguist-vendored
+*.pdf linguist-vendored
