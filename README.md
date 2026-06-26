@@ -573,7 +573,7 @@ is copy-pasteable from the `configs/` folder.
 <br/>
 <sub><b>Ayman Bashi Al-Baidhani</b></sub><br/>
 <sub>Architecture · Security · Documentation</sub><br/>
-<sub>📧 <i>available on request</i></sub>
+<sub>📧 <i>https:/github/ayman-albaidahi</i></sub>
 </td>
 </tr>
 </table>
