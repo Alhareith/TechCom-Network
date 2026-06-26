@@ -18,3 +18,4 @@ LICENSE linguist-documentation
 # === Binary assets — exclude from language stats ===
 *.pptx linguist-vendored
 *.pdf linguist-vendored
+  
