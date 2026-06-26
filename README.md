@@ -7,7 +7,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1437,50:1E3A8A,100:0EA5E9&height=230&section=header&text=TechCom%20Network&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Three-tier%20Enterprise%20Network%20%E2%80%94%20Cisco%20Packet%20Tracer&descSize=18&descAlignY=58&descColor=cbd5e1" alt="TechCom banner"/>
 
 <br/>
+<div align="center">
 
+###  Tests Passed ·  CCNA-aligned · ⚡ Production-Ready
+
+**🚀 [Quick Start](#-quick-start) · 📐 [Architecture](#-architecture-at-a-glance) · ✅ [Test Results](#-test-results)**
+
+</div>
 <!-- ========================================================== -->
 <!--  BADGES                                                    -->
 <!-- ========================================================== -->
@@ -609,5 +615,12 @@ You are free to use, modify, and distribute, provided attribution is kept.
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1437,50:1E3A8A,100:0EA5E9&height=120&section=footer&fontSize=14&fontColor=ffffff&fontAlignY=70&desc=Built%20with%20%E2%9D%A4%EF%B8%8F%20by%20Alhareth%20%26%20Ayman" alt="footer"/>
+
+</div>
+<div align="center">
+
+### ⭐ If this helped you, give it a star!
+
+**Made with ❤️ in Yemen — University of Ibb**
 
 </div>
