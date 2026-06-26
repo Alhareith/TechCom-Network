@@ -9,7 +9,6 @@
 | 🗂️ [VLAN-PLAN.md](VLAN-PLAN.md) | VLAN table + trunk discipline | 3 min |
 | ✅ [TEST-RESULTS.md](TEST-RESULTS.md) | All tests with sample output | 4 min |
 | 🧠 [CHALLENGES.md](CHALLENGES.md) | Engineering war stories | 4 min |
-| 🚀 [GITHUB-UPLOAD-PLAN.md](GITHUB-UPLOAD-PLAN.md) | Step-by-step upload guide | 6 min |
 | 🌐 [../diagrams/01-architecture-overview.md](../diagrams/01-architecture-overview.md) | 3-tier Mermaid diagram | 2 min |
 | 🔄 [../diagrams/02-traffic-flow.md](../diagrams/02-traffic-flow.md) | End-to-end sequence diagrams | 4 min |
 | 🗺️ [../diagrams/03-vlan-broadcast-domains.md](../diagrams/03-vlan-broadcast-domains.md) | VLAN broadcast domains | 2 min |
